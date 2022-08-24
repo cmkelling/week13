@@ -5,7 +5,7 @@ export default class Login extends Component {
       return(
         <div className="text-center" id="log">
             <div className="card-header">
-                Login
+                <h3>Login</h3>
             </div>
             <div className="card-body">
                 <label>Username</label>
