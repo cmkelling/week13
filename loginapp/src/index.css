@@ -21,6 +21,7 @@ code {
 #log {
   background-color: aliceblue;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 5px, black, solid;
 }
 
 #search{
