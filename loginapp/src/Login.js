@@ -1,9 +1,9 @@
-import { Component } from "react";
+import React, { Component } from "react";
 
 export default class Login extends Component {
     render() {
       return(
-        <div className="card">
+        <div className="text-center">
             <div className="card-header">
                 Login
             </div>

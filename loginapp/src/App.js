@@ -10,7 +10,7 @@ export default class App extends Component {
         <div className='row'>
           <NavigationBar/>
         </div>
-        
+        <br></br> <br></br>
         <div className='card'>
           <Login/>
         </div>
